@@ -9,6 +9,17 @@ public class Main {
 		System.out.println("my second changes");
 		System.out.println("my third changes");
 		System.out.println("my simple output string.");
+		
+		displayMyMessage displaymessage = new displayMyMessage();
+		displaymessage.displaymsg();
+		displayMyMessage();
+		
+		
+	}
+	
+	public static void displayMyMessage(){
+		
+		System.out.println("display my method");
 	}
 
 }
