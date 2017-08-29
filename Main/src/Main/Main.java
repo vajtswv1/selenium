@@ -8,7 +8,7 @@ public class Main {
 		System.out.println("my first changes");
 		System.out.println("my second changes");
 		System.out.println("my third changes");
-
+		System.out.println("my simple output string.");
 	}
 
 }
